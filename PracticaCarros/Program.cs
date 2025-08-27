@@ -7,6 +7,12 @@ Carros carro2 = new Deportivos();
 public class TiposCarro
 {
     public int Id = 0;
-    public string nombre = "";
+    public string Nombre = "";
+}
+
+public class Accesorios
+{
+    public int Id = 0
+    public string Nombre = "";
 }
 

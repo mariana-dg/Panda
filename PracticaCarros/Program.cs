@@ -24,5 +24,11 @@ public class Carros
     public string Marca = "";
     public DateTime FechaCompra = DateTime.Now;
     public bool Electrico = false;
-    
+    public decimal precio = 0.0m;
+    public TiposCarro Tipo = new TiposCarro();
+    public List<Accesorios> Accesorios = new List<Accesorios>();
+}
+public class Deportivos : Carros
+{
+    public string NumeroChasis = "";
 }

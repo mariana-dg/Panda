@@ -1,4 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using System.Drawing;
+
 Console.WriteLine("SISTEMA DE GESTION");
 
 var carro = new Carros();
@@ -12,7 +14,15 @@ public class TiposCarro
 
 public class Accesorios
 {
-    public int Id = 0
+    public int Id = 0;
     public string Nombre = "";
 }
 
+public class Carros
+{
+    public int id = 0;
+    public string Marca = "";
+    public DateTime FechaCompra = DateTime.Now;
+    public bool Electrico = false;
+    
+}

@@ -1,0 +1,15 @@
+c:\Users\Susana Duque\Desktop\Panda\PracticaLibreria\obj\Debug\net9.0\PracticaLibreria.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Susana Duque\Desktop\Panda\PracticaLibreria\obj\Debug\net9.0\PracticaLibreria.AssemblyInfoInputs.cache
+c:\Users\Susana Duque\Desktop\Panda\PracticaLibreria\obj\Debug\net9.0\PracticaLibreria.AssemblyInfo.cs
+c:\Users\Susana Duque\Desktop\Panda\PracticaLibreria\obj\Debug\net9.0\PracticaLibreria.csproj.CoreCompileInputs.cache
+c:\Users\Susana Duque\Desktop\Panda\PracticaLibreria\obj\Debug\net9.0\PracticaLibreria.sourcelink.json
+c:\Users\Susana Duque\Desktop\Panda\PracticaLibreria\bin\Debug\net9.0\PracticaLibreria.exe
+C:\Users\Susana Duque\Desktop\Panda\PracticaLibreria\bin\Debug\net9.0\PracticaLibreria.deps.json
+C:\Users\Susana Duque\Desktop\Panda\PracticaLibreria\bin\Debug\net9.0\PracticaLibreria.runtimeconfig.json
+c:\Users\Susana Duque\Desktop\Panda\PracticaLibreria\bin\Debug\net9.0\PracticaLibreria.dll
+c:\Users\Susana Duque\Desktop\Panda\PracticaLibreria\bin\Debug\net9.0\PracticaLibreria.pdb
+c:\Users\Susana Duque\Desktop\Panda\PracticaLibreria\obj\Debug\net9.0\PracticaLibreria.dll
+c:\Users\Susana Duque\Desktop\Panda\PracticaLibreria\obj\Debug\net9.0\refint\PracticaLibreria.dll
+c:\Users\Susana Duque\Desktop\Panda\PracticaLibreria\obj\Debug\net9.0\PracticaLibreria.pdb
+C:\Users\Susana Duque\Desktop\Panda\PracticaLibreria\obj\Debug\net9.0\PracticaLibreria.genruntimeconfig.cache
+C:\Users\Susana Duque\Desktop\Panda\PracticaLibreria\obj\Debug\net9.0\ref\PracticaLibreria.dll

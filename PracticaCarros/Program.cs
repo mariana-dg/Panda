@@ -6,6 +6,23 @@ Console.WriteLine("SISTEMA DE GESTION");
 var carro = new Carros();
 Carros carro1 = new Carros();
 Carros carro2 = new Deportivos();
+
+carro.id = 1;
+carro.Marca = "Toyota Corola";
+carro.Electrico = false;
+carro.precio = 250000.0m;
+carro.Tipo = new TiposCarro() { Id = 1, Nombre = "Sedán" };
+carro.Accesorios = new List<Accesorios>();
+carro.Accesorios.Add(new Accesorios() { Id = 1, Nombre = "Sistema de Navegacion" });
+carro.Accesorios.Add(new Accesorios() { Id = 2, Nombre = "Aire Acondicionado" });
+
+Console.WriteLine(carro.Marca);
+Console.WriteLine(carro.Tipo.Nombre);
+foreach (var elemento in carro.Accesorios)
+{
+    Console.WriteLine(elemento.Nombre);
+}
+
 public class TiposCarro
 {
     public int Id = 0;

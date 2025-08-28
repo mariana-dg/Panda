@@ -18,6 +18,7 @@ carro.Accesorios.Add(new Accesorios() { Id = 2, Nombre = "Aire Acondicionado" })
 
 Console.WriteLine(carro.Marca);
 Console.WriteLine(carro.Tipo.Nombre);
+Console.WriteLine(carro.precio);
 foreach (var elemento in carro.Accesorios)
 {
     Console.WriteLine(elemento.Nombre);

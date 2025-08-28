@@ -1,0 +1,15 @@
+c:\Users\Susana Duque\Desktop\Panda\PracticaCarros\bin\Debug\net9.0\PracticaCarros.exe
+C:\Users\Susana Duque\Desktop\Panda\PracticaCarros\bin\Debug\net9.0\PracticaCarros.deps.json
+C:\Users\Susana Duque\Desktop\Panda\PracticaCarros\bin\Debug\net9.0\PracticaCarros.runtimeconfig.json
+c:\Users\Susana Duque\Desktop\Panda\PracticaCarros\bin\Debug\net9.0\PracticaCarros.dll
+c:\Users\Susana Duque\Desktop\Panda\PracticaCarros\bin\Debug\net9.0\PracticaCarros.pdb
+c:\Users\Susana Duque\Desktop\Panda\PracticaCarros\obj\Debug\net9.0\PracticaCarros.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Susana Duque\Desktop\Panda\PracticaCarros\obj\Debug\net9.0\PracticaCarros.AssemblyInfoInputs.cache
+c:\Users\Susana Duque\Desktop\Panda\PracticaCarros\obj\Debug\net9.0\PracticaCarros.AssemblyInfo.cs
+c:\Users\Susana Duque\Desktop\Panda\PracticaCarros\obj\Debug\net9.0\PracticaCarros.csproj.CoreCompileInputs.cache
+c:\Users\Susana Duque\Desktop\Panda\PracticaCarros\obj\Debug\net9.0\PracticaCarros.sourcelink.json
+c:\Users\Susana Duque\Desktop\Panda\PracticaCarros\obj\Debug\net9.0\PracticaCarros.dll
+c:\Users\Susana Duque\Desktop\Panda\PracticaCarros\obj\Debug\net9.0\refint\PracticaCarros.dll
+c:\Users\Susana Duque\Desktop\Panda\PracticaCarros\obj\Debug\net9.0\PracticaCarros.pdb
+C:\Users\Susana Duque\Desktop\Panda\PracticaCarros\obj\Debug\net9.0\PracticaCarros.genruntimeconfig.cache
+C:\Users\Susana Duque\Desktop\Panda\PracticaCarros\obj\Debug\net9.0\ref\PracticaCarros.dll

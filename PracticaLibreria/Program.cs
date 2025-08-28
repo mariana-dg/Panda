@@ -3,6 +3,8 @@ Libros libro1 = new Libros();
 Libros Libro2 = new Estudiosos();
 
 libro.Id = new Libros();
+libro.Titulo = "Cien años de soledad";
+
 
 
 
